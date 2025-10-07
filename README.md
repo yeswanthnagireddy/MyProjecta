@@ -17,8 +17,8 @@ A time-series regression model built to forecast retail sales. The aim is to hel
 
 
 **🔗 Project Links:**
-- [🔗 View on nbviewer](https://nbviewer.org/github/yeswanthnagireddy/MyProjecta/blob/main/Sales%20Forecast%20Prediction.ipynb)  
 - [⚡ Open in Google Colab](https://colab.research.google.com/github/yeswanthnagireddy/MyProjecta/blob/main/Sales%20Forecast%20Prediction)
+- [🔗 View on nbviewer](https://nbviewer.org/github/yeswanthnagireddy/MyProjecta/blob/main/Sales%20Forecast%20Prediction.ipynb)  
 - [GitHub Repository](https://github.com/yeswanthnagireddy/MyProjecta)
 
 ---
